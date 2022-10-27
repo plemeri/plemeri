@@ -1,18 +1,22 @@
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plemeri&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plemeri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**plemeri/plemeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-Here are some ideas to get you started:
+## ⚙️ GitHub Stats ⚙️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/taulantxhakli/taulantxhakli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plemeri&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/taulantxhakli/taulantxhakli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=plemeri&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Taulant's GitHub Stats" />
+</a>
+
+<a href="https://github.com/plemeri/UACANet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=plemeri&repo=UACANet&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/plemeri/InSPyReNet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=plemeri&repo=InSPyReNet&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
+</a>  
+
