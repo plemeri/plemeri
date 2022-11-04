@@ -6,6 +6,7 @@
 
 * "No one can whistle a symphony. It takes a whole orchestra to play it." – H.E. Luccock
 * "We make a living by what we get, but we make a life by what we give." - Winston Churchill
+* “You must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty.” – Mahatma Gandhi
 
 ## Reading Lists
 
