@@ -13,9 +13,7 @@ Recognition, Salient Object Detection, Medical Image Segmentation, Image to Imag
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=plemeri&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=plemeri&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=plemeri&theme=github_dark&utcOffset=8)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=plemeri&theme=github_dark" height=180px/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=plemeri&theme=github_dark" height=180px/>
 
 </div>
 
