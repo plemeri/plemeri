@@ -11,9 +11,11 @@ Recognition, Salient Object Detection, Medical Image Segmentation, Image to Imag
 
 ## ⚙️ GitHub Stats ⚙️
 
-<a href="https://github.com/taulantxhakli/taulantxhakli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plemeri&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/taulantxhakli/taulantxhakli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=plemeri&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Taulant's GitHub Stats" />
-</a>
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=plemeri&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=plemeri&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=plemeri&theme=github_dark&utcOffset=8)
+
+</div>
+
