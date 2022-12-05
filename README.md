@@ -1,6 +1,5 @@
 
-
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20There,%20I'm%20Taehun%20Kim&descAlignY=51&descAlign=62)
 
 I’m a graduate student in Computer Science and Engineering, POSTECH. My research topic is Computer Vision, Semantic Segmentation, Action
 Recognition, Salient Object Detection, Medical Image Segmentation, Image to Image Translation.
