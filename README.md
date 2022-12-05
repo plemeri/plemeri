@@ -7,18 +7,6 @@ Recognition, Salient Object Detection, Medical Image Segmentation, Image to Imag
 
 <p><a href="https://drive.google.com/file/d/1x6GRmr3QZASHyMnTDvz0GTD_W9krzzbi/view?usp=sharing" target="_blank"><img alt="CV" src="https://img.shields.io/badge/CV-<>?style=for-the-badge&color=9cf" /></a> <a href="https://github.com/plemeri" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/plemeri_kim" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/taehun-kim-808b08158/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://scholar.google.co.kr/citations?user=f12-9yQAAAAJ&hl=en" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/static/v1?style=for-the-badge&message=Google+Scholar&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&label=" /></a> <a href="https://www.researchgate.net/profile/Taehun-Kim-20" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/static/v1?style=for-the-badge&message=ResearchGate&color=222222&logo=ResearchGate&logoColor=00CCBB&label=" /></a> <a href="https://orcid.org/my-orcid?orcid=0000-0001-9322-9741" target="_blank"><img alt="OrcID" src="https://img.shields.io/static/v1?style=for-the-badge&message=ORCID&color=222222&logo=ORCID&logoColor=A6CE39&label=" /></a>
   
-## :bulb: Quotes :bulb:
-
-* "No one can whistle a symphony. It takes a whole orchestra to play it." – H.E. Luccock
-* "We make a living by what we get, but we make a life by what we give." - Winston Churchill
-* "Respect is a two-way street, if you want to get it, you’ve got to give it." – R.G. Risch
-* “You must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty.” – Mahatma Gandhi
-
-## :closed_book: Reading Lists :closed_book:
-
-[Give and Take](https://www.amazon.com/Give-Take-Helping-Others-Success/dp/0143124986) | [The Courage to Be Disliked](https://www.amazon.com/Courage-Be-Disliked-Phenomenon-Happiness/dp/1501197274) | [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
-|:-:|:-:|:-:
-<img src="https://d1b14unh5d6w7g.cloudfront.net/0143124986.01.S001.LXXXXXXX.jpg?Expires=1667619961&Signature=FYxC8NzE1wxQcZKTGN3Fatm6bg-fp1MC5qpYY9vFjpqPc5-s0kPmrAzq~C7aeQfGPT-VsTRz453q7tJiWVWAh8AwZ9r0CF5OPwDYWnDzf77zehXTgzU0JMf9YozsCMvl5qY9GwRD4726k84mlT8nsQw50PbGd8DEuuNkBrWn8x4_&Key-Pair-Id=APKAIUO27P366FGALUMQ" width=200px/> | <img src="https://m.media-amazon.com/images/I/41xzLNSJ94L._SX327_BO1,204,203,200_.jpg" width=200px/> | <img src="https://m.media-amazon.com/images/I/41a7lmk2h1L._SX320_BO1,204,203,200_.jpg" width=200px />
 
 ## ⚙️ GitHub Stats ⚙️
 
