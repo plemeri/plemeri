@@ -1,7 +1,7 @@
 
-<p align="center">
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20There,%20I'm%20Taehun%20Kim">
-</p>
+
   
 I’m a graduate student in Computer Science and Engineering, POSTECH. My research topic is Computer Vision, Semantic Segmentation, Action
 Recognition, Salient Object Detection, Medical Image Segmentation, Image to Image Translation.
@@ -13,7 +13,10 @@ Recognition, Salient Object Detection, Medical Image Segmentation, Image to Imag
 
 ## ⚙️ GitHub Stats ⚙️
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=plemeri&theme=github_dark" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=plemeri&theme=github_dark"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=plemeri&theme=github_dark&utcOffset=8"/>
+<a href="https://github.com/taulantxhakli/taulantxhakli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plemeri&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/taulantxhakli/taulantxhakli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=plemeri&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Taulant's GitHub Stats" />
 
-
-
+</div>
