@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hi%20There,%20I'm%20Taehun%20Kim">
 
-## Research Interest 🎓:
+## Research Interest 🎓
 `Computer Vision`
 `Semantic Segmentation`
 `Action Recognition`
@@ -11,7 +11,7 @@
 `Medical Image Segmentation`
 `Image to Image Translation`
 
-## Contacts 📃:
+## Contacts 📃
 <p align="center">
 <a href="https://drive.google.com/file/d/1x6GRmr3QZASHyMnTDvz0GTD_W9krzzbi/view?usp=sharing" target="_blank"><img alt="CV" src="https://img.shields.io/badge/CV-<>?style=for-the-badge&color=9cf" /></a> 
 <a href="https://twitter.com/plemeri_kim" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
