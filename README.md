@@ -23,6 +23,9 @@
 <a href="https://orcid.org/my-orcid?orcid=0000-0001-9322-9741" target="_blank"><img alt="OrcID" src="https://img.shields.io/static/v1?style=for-the-badge&message=ORCID&color=222222&logo=ORCID&logoColor=A6CE39&label=" /></a>
 </p>
 
+## Buy me a coffee ☕
+<a href="https://github.com/sponsors/plemeri" target="_blank"><img alt="Github Sponsor" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white&" /></a> 
+
 ## GitHub Stats 📟
 
 <a href="https://github.com/taulantxhakli/taulantxhakli">
