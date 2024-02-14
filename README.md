@@ -25,6 +25,7 @@
 
 ## Buy me a coffee ☕
 <a href="https://github.com/sponsors/plemeri" target="_blank"><img alt="Github Sponsor" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white&" /></a> 
+<a href="https://www.buymeacoffee.com/plemeri" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="120"></a>
 
 ## GitHub Stats 📟
 
