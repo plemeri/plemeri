@@ -1,0 +1,32 @@
+name: Update PyPI Package Rank
+
+on:
+  schedule:
+    - cron: "0 0 2 * *"  # Runs every day at midnight UTC
+  workflow_dispatch:  # Allows manual execution
+
+jobs:
+  update-rank:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run script to update ranking
+        run: python update_rank.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add rank.json
+          git diff --staged --quiet || git commit -m "Updated transparent-background ranking and downloads"
+          git push
