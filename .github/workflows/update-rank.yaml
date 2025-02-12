@@ -27,8 +27,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin main  # Fetch latest changes
-          git reset --soft origin/main  # Reset local branch to match remote
           git add rank.json
           git diff --staged --quiet || git commit -m "Updated transparent-background ranking and downloads"
-          git push --force
+          git push
