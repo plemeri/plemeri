@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 
 # Define base URL for historical PyPI data
-BASE_URL = "https://raw.githubusercontent.com/hugovk/top-pypi-packages/refs/tags/{year}.{month:02d}/top-pypi-packages-30-days.json"
+BASE_URL = "https://raw.githubusercontent.com/hugovk/top-pypi-packages/refs/tags/{year}.{month:02d}/top-pypi-packages.json"
 
 # Start tracking from September 2024
 start_year = 2024
