@@ -4,6 +4,7 @@ from datetime import datetime
 
 # Define base URL for historical PyPI data
 BASE_URL = "https://raw.githubusercontent.com/hugovk/top-pypi-packages/refs/tags/{year}.{month:02d}/top-pypi-packages.json"
+BASE_URL_OLD = "https://raw.githubusercontent.com/hugovk/top-pypi-packages/refs/tags/{year}.{month:02d}/top-pypi-packages-30-days.json"
 
 # Start tracking from September 2024
 start_year = 2024
@@ -21,6 +22,12 @@ latest_rank = None
 latest_downloads = None
 highest_rank = float("inf")  # Lowest numerical value is best rank
 
+def fetch_data(url):
+    response = requests.get(url)
+    if response.status_code != 200:
+        return None
+    return response
+
 # Loop through historical months up to the current month
 for year in range(start_year, current_year + 1):
     for month in range(1, 13):
@@ -32,15 +39,15 @@ for year in range(start_year, current_year + 1):
         if year == current_year and month > current_month:
             break
 
-        # Construct the URL for the JSON file
-        json_url = BASE_URL.format(year=year, month=month)
-        print(f"Fetching data from: {json_url}")
-
-        # Fetch JSON data
-        response = requests.get(json_url)
-        if response.status_code != 200:
+        response = fetch_data(BASE_URL.format(year=year, month=month))
+        response_old = fetch_data(BASE_URL_OLD.format(year=year, month=month))
+        
+        if response is None and response_old is None:
             print(f"⚠️ Data not available for {year}.{month:02d}, skipping...")
             continue
+        
+        if response is None:
+            response = response_old
 
         data = response.json()
         packages = data["rows"]
